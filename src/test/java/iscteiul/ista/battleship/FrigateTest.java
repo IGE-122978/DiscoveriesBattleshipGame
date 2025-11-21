@@ -119,6 +119,4 @@ class FrigateTest {
             // Nota: Este teste garante a cobertura dos ramos do switch e o loop de 0 a 3.
         }
     }
-
-
 }
