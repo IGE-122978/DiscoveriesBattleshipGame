@@ -11,7 +11,7 @@
 
 ## Regras do Jogo 
 
-<img src="images/batalha-naval.png" align="right" width="300"/>
+<img src="batalha-naval.jpeg" align="right" width="300"/>
 
 O jogo da Batalha Naval é jogado entre dois jogadores, sendo que cada um possui duas grelhas quadradas de 10x10 posições. Uma grelha representa o seu próprio mar, onde são colocados os navios, e a outra representa o mar do adversário, onde são registados os tiros efetuados ao longo do jogo.
 
