@@ -18,3 +18,10 @@ Depois de posicionados os navios, os jogadores jogam alternadamente. Em cada tur
 
 Um navio é considerado afundado quando todas as posições que ocupa forem atingidas. O jogo termina quando um dos jogadores conseguir afundar todos os navios da frota adversária, sendo esse jogador declarado vencedor.
 
+## Referências Históricas
+- https://pt.wikipedia.org/wiki/Gale%C3%A3o  
+- https://pt.wikipedia.org/wiki/Caravela  
+- https://pt.wikipedia.org/wiki/Nau  
+- https://pt.wikipedia.org/wiki/Fragata  
+- https://pt.wikipedia.org/wiki/Barca  
+
