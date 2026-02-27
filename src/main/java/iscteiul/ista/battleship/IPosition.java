@@ -6,6 +6,11 @@ package iscteiul.ista.battleship;
 /**
  * @author fba
  */
+
+/**
+ * Interface que representa uma posição do tabuleiro.
+ */
+
 public interface IPosition {
     int getRow();
 
