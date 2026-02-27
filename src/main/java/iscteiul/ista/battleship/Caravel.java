@@ -3,6 +3,11 @@
  */
 package iscteiul.ista.battleship;
 
+/**
+ * Representa o navio Caravela.
+ * Ocupa duas posições consecutivas dependendo da orientação definida.
+ */
+
 public class Caravel extends Ship {
     private static final Integer SIZE = 2;
     private static final String NAME = "Caravela";
