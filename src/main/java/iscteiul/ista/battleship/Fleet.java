@@ -6,12 +6,6 @@ package iscteiul.ista.battleship;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Representa a frota de um jogador.
- * Responsável por armazenar os navios, validar posicionamentos
- * e verificar colisões e posições ocupadas.
- */
-
 public class Fleet implements IFleet {
     /**
      * This operation prints all the given ships
