@@ -7,6 +7,12 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
+/**
+ * Classe abstrata que representa um navio do jogo Batalha Naval.
+ * Define os atributos e comportamentos comuns a todos os tipos de navios,
+ * como categoria, orientação e posições ocupadas no tabuleiro.
+ */
+
 public abstract class Ship implements IShip {
 
     private static final String GALEAO = "galeao";

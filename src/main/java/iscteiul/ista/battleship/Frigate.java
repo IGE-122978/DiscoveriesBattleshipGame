@@ -3,6 +3,11 @@
  */
 package iscteiul.ista.battleship;
 
+/**
+ * Representa o navio Fragata.
+ * Ocupa quatro posições consecutivas dependendo da direção escolhida.
+ */
+
 public class Frigate extends Ship {
     private static final Integer SIZE = 4;
     private static final String NAME = "Fragata";

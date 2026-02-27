@@ -5,6 +5,12 @@ package iscteiul.ista.battleship;
 
 import java.util.Objects;
 
+/**
+ * Representa uma posição do tabuleiro.
+ * Guarda a linha e coluna e indica se a posição está ocupada
+ * e se já foi atingida por um tiro.
+ */
+
 public class Position implements IPosition {
     private int row;
     private int column;

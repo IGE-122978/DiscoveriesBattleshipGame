@@ -9,6 +9,11 @@ import java.util.Scanner;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+/**
+ * Classe auxiliar com tarefas de teste utilizadas para validar
+ * as diferentes funcionalidades do jogo durante o desenvolvimento.
+ */
+
 public class Tasks {
     private static final Logger LOGGER = LogManager.getLogger();
 
