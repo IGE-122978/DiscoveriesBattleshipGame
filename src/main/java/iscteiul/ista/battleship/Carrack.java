@@ -3,6 +3,11 @@
  */
 package iscteiul.ista.battleship;
 
+/**
+ * Representa o navio Nau.
+ * Ocupa três posições consecutivas no tabuleiro conforme a orientação.
+ */
+
 public class Carrack extends Ship {
     private static final Integer SIZE = 3;
     private static final String NAME = "Nau";
