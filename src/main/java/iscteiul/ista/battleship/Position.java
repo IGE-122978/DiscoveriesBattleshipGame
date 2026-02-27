@@ -5,6 +5,10 @@ package iscteiul.ista.battleship;
 
 import java.util.Objects;
 
+/**
+ * Interface que representa uma posição do tabuleiro.
+ */
+
 public class Position implements IPosition {
     private int row;
     private int column;
