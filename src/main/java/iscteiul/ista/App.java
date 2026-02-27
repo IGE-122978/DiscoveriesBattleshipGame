@@ -8,6 +8,11 @@ import iscteiul.ista.battleship.Tasks;
  * @author adrianolopes
  * @author miguelgoulao
  */
+/**
+ * Classe principal da aplicação.
+ * Responsável por iniciar a execução do jogo.
+ */
+
 public class App
 {
     public static void main( String[] args )
