@@ -7,11 +7,6 @@ package iscteiul.ista.battleship;
  * @author fba
  */
 
-/**
- * Enumeração que representa as direções possíveis
- * para orientação dos navios no tabuleiro.
- */
-
 public enum Compass {
     NORTH('n'), SOUTH('s'), EAST('e'), WEST('o'), UNKNOWN('u');
 
