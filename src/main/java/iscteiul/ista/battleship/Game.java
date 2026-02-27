@@ -10,6 +10,13 @@ import java.util.List;
  * @author fba
  *
  */
+
+/**
+ * Representa uma partida do jogo Batalha Naval.
+ * Controla os tiros efetuados, acertos, navios afundados
+ * e estatísticas do jogo.
+ */
+
 public class Game implements IGame {
     private IFleet fleet;
     private List<IPosition> shots;
