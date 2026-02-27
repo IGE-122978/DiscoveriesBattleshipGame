@@ -5,6 +5,10 @@ package iscteiul.ista.battleship;
 
 import java.util.List;
 
+/**
+ * Interface que define o comportamento comum a todos os navios.
+ */
+
 public interface IShip {
     String getCategory();
 
