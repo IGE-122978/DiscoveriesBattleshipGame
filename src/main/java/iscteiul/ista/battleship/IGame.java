@@ -5,6 +5,10 @@ package iscteiul.ista.battleship;
 
 import java.util.List;
 
+/**
+ * Interface que define o comportamento principal de um jogo Batalha Naval.
+ */
+
 public interface IGame {
     IShip fire(IPosition pos);
 
