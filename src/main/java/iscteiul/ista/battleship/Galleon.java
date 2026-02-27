@@ -3,6 +3,13 @@
  */
 package iscteiul.ista.battleship;
 
+/**
+ * Representa o navio Galeão.
+ * É o maior navio do jogo e ocupa cinco posições no tabuleiro,
+ * organizadas de acordo com a sua orientação.
+ */
+
+
 public class Galleon extends Ship {
     private static final Integer SIZE = 5;
     private static final String NAME = "Galeao";
