@@ -5,7 +5,9 @@ package iscteiul.ista.battleship;
 
 /**
  * Representa o navio Caravela.
- * Ocupa duas posições consecutivas dependendo da orientação definida.
+ *
+ * Ocupa duas posições consecutivas no tabuleiro,
+ * dependendo da orientação definida.
  */
 
 public class Caravel extends Ship {

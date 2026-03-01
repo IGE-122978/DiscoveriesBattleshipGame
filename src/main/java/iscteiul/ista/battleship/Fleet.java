@@ -7,11 +7,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Representa a frota de um jogador.
- * Responsável por armazenar os navios, validar posicionamentos
- * e verificar colisões e posições ocupadas.
+ * Representa a frota de navios de um jogador.
+ *
+ * Responsável por:
+ * - armazenar os navios existentes
+ * - validar a colocação no tabuleiro
+ * - evitar colisões entre navios
+ * - consultar navios ativos ou por categoria
  */
-
 public class Fleet implements IFleet {
     /**
      * This operation prints all the given ships

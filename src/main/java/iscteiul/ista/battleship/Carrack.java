@@ -5,7 +5,9 @@ package iscteiul.ista.battleship;
 
 /**
  * Representa o navio Nau.
- * Ocupa três posições consecutivas no tabuleiro conforme a orientação.
+ *
+ * Este navio ocupa três posições alinhadas
+ * horizontal ou verticalmente.
  */
 
 public class Carrack extends Ship {

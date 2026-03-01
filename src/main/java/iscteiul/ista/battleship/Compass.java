@@ -9,7 +9,7 @@ package iscteiul.ista.battleship;
 
 /**
  * Enumeração que representa as direções possíveis
- * para orientação dos navios no tabuleiro.
+ * para a orientação dos navios no tabuleiro.
  */
 
 public enum Compass {
