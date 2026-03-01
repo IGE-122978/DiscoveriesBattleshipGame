@@ -6,7 +6,8 @@ package iscteiul.ista.battleship;
 import java.util.List;
 
 /**
- * Interface que define o comportamento comum a todos os navios.
+ * Interface que descreve o comportamento comum
+ * a todos os navios do jogo.
  */
 
 public interface IShip {

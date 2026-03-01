@@ -10,8 +10,12 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 /**
- * Classe auxiliar com tarefas de teste utilizadas para validar
- * as diferentes funcionalidades do jogo durante o desenvolvimento.
+ * Classe responsável por executar diferentes tarefas
+ * de teste e interação com o utilizador.
+ *
+ * Permite criar frotas, realizar disparos e visualizar
+ * o estado do jogo através de comandos introduzidos
+ * pelo utilizador.
  */
 
 public class Tasks {
