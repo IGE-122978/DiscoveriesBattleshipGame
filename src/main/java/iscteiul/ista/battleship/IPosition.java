@@ -11,6 +11,7 @@ package iscteiul.ista.battleship;
  * Interface que representa uma posição do tabuleiro.
  */
 
+
 public interface IPosition {
     int getRow();
 

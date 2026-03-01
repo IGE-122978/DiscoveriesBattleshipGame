@@ -12,10 +12,13 @@ import java.util.List;
  */
 
 /**
- * Representa uma partida do jogo Batalha Naval.
- * Controla os tiros efetuados, acertos, navios afundados
- * e estatísticas do jogo.
+ * Representa o estado de um jogo Battleship.
+ *
+ * Controla os disparos realizados, contabiliza
+ * acertos, tiros inválidos, repetidos e navios
+ * afundados durante a partida.
  */
+
 
 public class Game implements IGame {
     private IFleet fleet;
