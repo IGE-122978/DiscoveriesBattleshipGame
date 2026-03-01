@@ -42,6 +42,34 @@ No jogo, os navios tradicionais da Batalha Naval são representados por embarca�
 - **Caravela** — Navio leve e altamente manobrável, fundamental para a exploração marítima portuguesa.
 - **Barca** — Pequena embarcação de apoio e transporte costeiro, representando o navio de menor dimensão.
 
+## Resposta a perguntas da Ficha
+
+### E.3 – Product Backlog (Requisitos Adicionais)
+
+Como Product Owner da aplicação *Discoveries Battleship Game*, para além das regras básicas do jogo, foram identificados os seguintes requisitos adicionais para o Product Backlog:
+
+- Criar e iniciar partidas entre dois jogadores.
+- Permitir posicionamento manual ou automático dos navios, validando as regras do jogo.
+- Realizar jogadas por turnos com três tiros por ronda.
+- Indicar o resultado dos tiros (água, atingido ou navio afundado).
+- Visualizar o tabuleiro próprio e o tabuleiro do adversário.
+- Guardar o estado do jogo (ex.: em ficheiro JSON ou base de dados).
+- Permitir retomar partidas interrompidas.
+- Registar histórico e estatísticas de jogos dos jogadores.
+- Possibilidade de jogar contra Inteligência Artificial com diferentes níveis de dificuldade.
+
+O Product Backlog poderá evoluir ao longo do desenvolvimento, sendo priorizado de acordo com a metodologia Scrum.
+
+---
+
+### Parte 2 – C. Comparação crítica (Reflita)
+
+O trabalho através da plataforma web do GitHub permite uma gestão simples do projeto, sendo mais adequado para criar e gerir Issues, rever código, acompanhar contribuições da equipa e realizar pequenas alterações em ficheiros como o README.
+
+Por outro lado, o uso do IDE IntelliJ IDEA oferece um ambiente de desenvolvimento mais completo, facilitando a escrita e edição de código, debugging, gestão avançada de branches e geração automática de documentação, como o Javadoc.
+
+Assim, a interface web é mais indicada para colaboração e gestão do projeto, enquanto o IDE é preferível para o desenvolvimento e implementação técnica do software.
+
 
 ## Referências Históricas
 
