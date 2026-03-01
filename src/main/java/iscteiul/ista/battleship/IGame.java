@@ -10,6 +10,7 @@ import java.util.List;
  * de controlo de um jogo Battleship.
  */
 
+
 public interface IGame {
     IShip fire(IPosition pos);
 

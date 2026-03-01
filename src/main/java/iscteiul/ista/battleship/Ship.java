@@ -20,6 +20,7 @@ import java.util.List;
  * de tiros e estado do navio (afundado ou não).
  */
 
+
 public abstract class Ship implements IShip {
 
     private static final String GALEAO = "galeao";

@@ -12,6 +12,7 @@ package iscteiul.ista.battleship;
  */
 
 
+
 public class Galleon extends Ship {
     private static final Integer SIZE = 5;
     private static final String NAME = "Galeao";

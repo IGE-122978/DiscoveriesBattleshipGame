@@ -19,6 +19,7 @@ import java.util.List;
  * afundados durante a partida.
  */
 
+
 public class Game implements IGame {
     private IFleet fleet;
     private List<IPosition> shots;

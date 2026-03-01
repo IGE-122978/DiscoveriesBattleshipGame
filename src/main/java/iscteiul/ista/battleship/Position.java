@@ -12,6 +12,7 @@ import java.util.Objects;
  * da posição (ocupada por navio e/ou atingida).
  */
 
+
 public class Position implements IPosition {
     private int row;
     private int column;

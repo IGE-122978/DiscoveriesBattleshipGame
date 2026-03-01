@@ -10,6 +10,7 @@ package iscteiul.ista.battleship;
  * no tabuleiro, conforme a orientação definida.
  */
 
+
 public class Frigate extends Ship {
     private static final Integer SIZE = 4;
     private static final String NAME = "Fragata";
