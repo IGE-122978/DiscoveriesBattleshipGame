@@ -6,8 +6,6 @@ package iscteiul.ista.battleship;
 import java.util.Scanner;
 
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
 /**
  * Classe responsável por executar diferentes tarefas
@@ -20,7 +18,7 @@ import org.apache.logging.log4j.Logger;
 
 
 public class Tasks {
-    private static final Logger LOGGER = LogManager.getLogger();
+
 
     private static final int NUMBER_SHOTS = 3;
 
