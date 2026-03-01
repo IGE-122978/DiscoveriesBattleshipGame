@@ -6,7 +6,8 @@ package iscteiul.ista.battleship;
 import java.util.List;
 
 /**
- * Interface que define as operações disponíveis para uma frota de navios.
+ * Interface que define o comportamento esperado
+ * de uma frota de navios.
  */
 
 public interface IFleet {

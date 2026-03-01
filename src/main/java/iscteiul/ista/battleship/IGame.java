@@ -6,7 +6,8 @@ package iscteiul.ista.battleship;
 import java.util.List;
 
 /**
- * Interface que define o comportamento principal de um jogo Batalha Naval.
+ * Interface que define as operações principais
+ * de controlo de um jogo Battleship.
  */
 
 public interface IGame {

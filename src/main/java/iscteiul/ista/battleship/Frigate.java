@@ -5,7 +5,9 @@ package iscteiul.ista.battleship;
 
 /**
  * Representa o navio Fragata.
- * Ocupa quatro posições consecutivas dependendo da direção escolhida.
+ *
+ * A Fragata ocupa quatro posições consecutivas
+ * no tabuleiro, conforme a orientação definida.
  */
 
 public class Frigate extends Ship {
