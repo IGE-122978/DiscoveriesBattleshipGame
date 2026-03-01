@@ -5,8 +5,11 @@ package iscteiul.ista.battleship;
 
 /**
  * Representa o navio Barca.
- * Este navio ocupa apenas uma posição no tabuleiro.
+ *
+ * É o menor navio do jogo, ocupando apenas uma posição
+ * no tabuleiro.
  */
+
 public class Barge extends Ship {
     private static final Integer SIZE = 1;
     private static final String NAME = "Barca";
