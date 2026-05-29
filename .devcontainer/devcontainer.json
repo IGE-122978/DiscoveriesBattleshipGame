@@ -1,0 +1,7 @@
+{
+  "name": "Battleship DevContainer",
+  "image": "mcr.microsoft.com/devcontainers/java:17",
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  }
+}
